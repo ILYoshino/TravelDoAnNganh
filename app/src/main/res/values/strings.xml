@@ -1,0 +1,55 @@
+<resources>
+    <string name="app_name">Travel</string>
+    <string name="login">Đăng nhập</string>
+    <string name="register">Đăng ký</string>
+    <string name="email">Email</string>
+    <string name="password">Mật khẩu</string>
+    <string name="remember_me">Lưu đăng nhập</string>
+    <string name="create_account">Tạo tài khoản</string>
+    <string name="creating_account">Đang tạo tài khoản</string>
+    <string name="phone_number">Số điện thoại</string>
+    <string name="title_activity_main2">Main2Activity</string>
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+    <string name="nav_header_title">Android Studio</string>
+    <string name="nav_header_subtitle">android.studio@android.com</string>
+    <string name="nav_header_desc">Navigation header</string>
+    <string name="action_settings">Settings</string>
+
+    <string name="menu_home">Home</string>
+    <string name="menu_profile">Profile</string>
+    <string name="menu_category">Danh mục sản phẩm</string>
+    <string name="menu_cart">Giỏ hàng</string>
+    <string name="title_activity_main">MainActivity</string>
+    <string name="menu_gallery">Gallery</string>
+    <string name="menu_slideshow">Slideshow</string>
+
+    <string name="menu_order">Đơn hàng</string>
+    <string name="menu_logout">Đăng xuất</string>
+    <string name="logging_in">Đang đăng nhập</string>
+    <string name="logging_out">Đang đăng xuất</string>
+    <string name="your_name">Tên của bạn</string>
+    <string name="address">Địa chỉ</string>
+    <string name="update">Cập nhật</string>
+    <string name="empty_cart">Giỏ hàng trống</string>
+    <string name="no_order">Bạn không có đơn hàng nào</string>
+    <string name="add_to_cart">Thêm vào giỏ</string>
+    <string name="buy_now">Mua ngay</string>
+    <string name="product_name">Tên sản phẩm</string>
+    <string name="price">Giá</string>
+    <string name="total_price">Tổng giá tiền</string>
+    <string name="quantity">Số lượng</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="back">Quay lại</string>
+    <string name="delete">Xoá</string>
+    <string name="modify">Sửa</string>
+    <string name="add">Thêm</string>
+    <string name="set_admin">Set Admin</string>
+    <string name="provide_email">Nhập email người dùng</string>
+    <string name="deset_admin">Bỏ set admin</string>
+    <string name="product_type">Loại sản phẩm</string>
+    <string name="product_price">Giá sản phẩm</string>
+    <string name="product_description">Mô tả</string>
+    <string name="provide_product_name">Nhập tên sản phẩm</string>
+</resources>
